@@ -1,1 +1,1 @@
-# QtC
+# QtCreator-styles
